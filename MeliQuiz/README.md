@@ -10,7 +10,7 @@
 ## Pantalla horizontal:
 
 <p align="center"> 
-<img src="https://github.com/Jesamin-30/Dispositivos_Moviles/blob/master/MeliQuiz/Image/pantalla_horizontal.jpeg" width="260">
+<img src="https://github.com/Jesamin-30/Dispositivos_Moviles/blob/master/MeliQuiz/Image/pantalla_horizontal.jpeg" width="400">
 </p>
 
 ## Pantalla de Cheat:
